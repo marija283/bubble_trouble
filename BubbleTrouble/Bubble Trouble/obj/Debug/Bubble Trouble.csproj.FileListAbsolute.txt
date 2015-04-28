@@ -1,0 +1,72 @@
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Form1.resources
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Properties.Resources.resources
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe.config
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.pdb
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.exe
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.pdb
+C:\Users\Igor\Desktop\C#\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csprojResolveAssemblyReference.cache
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe.config
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.exe
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.pdb
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.pdb
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csprojResolveAssemblyReference.cache
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Form1.resources
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Properties.Resources.resources
+C:\Users\Riste\Desktop\Proekt\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csproj.GenerateResource.Cache
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe.config
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.exe
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.pdb
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.pdb
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csprojResolveAssemblyReference.cache
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Form1.resources
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Properties.Resources.resources
+C:\Users\zoki\Desktop\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe.config
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.exe
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.pdb
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.pdb
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Form1.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Properties.Resources.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Main.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.HowToPlay.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Quit.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Pause.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Lost.resources
+C:\Users\Igor\Desktop\Proekna zadaca Vizuelno Programiranje\Bubble-Trouble\Bubble-Trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Win.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe.config
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.exe
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.pdb
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.pdb
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csprojResolveAssemblyReference.cache
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Form1.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.HowToPlay.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Lost.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Main.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Pause.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Properties.Resources.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Quit.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Win.resources
+C:\Users\Riste\Desktop\Proekt\v4BETA\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csproj.GenerateResource.Cache
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe.config
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.exe
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.pdb
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.exe
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\bin\Debug\Bubble Trouble.pdb
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csprojResolveAssemblyReference.cache
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Form1.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.HowToPlay.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Lost.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Main.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Pause.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Properties.Resources.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Quit.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble_Trouble.Win.resources
+C:\Users\zoki\Desktop\bubble trouble\Bubble Trouble\Bubble Trouble\obj\Debug\Bubble Trouble.csproj.GenerateResource.Cache
