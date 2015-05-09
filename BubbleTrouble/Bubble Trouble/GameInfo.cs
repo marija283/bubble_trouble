@@ -18,15 +18,15 @@ namespace Bubble_Trouble
 
         public GameInfo()
         {
+            live = Bubble_Trouble.Properties.Resources.heart;
             zivoti = 3;
             poeni = 0;
             level = 1;
-            live = Bubble_Trouble.Properties.Resources.heart;
         }
 
         public void Draw (Graphics g)
         {
-            for (int i = 0; i < zivoti*35; i += 35)
+            for (int i = 0; i < zivoti * 35; i += 35)
             {
                     g.DrawImage(live, X + i, Y , 30, 40);
             }
