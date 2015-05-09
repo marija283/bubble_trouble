@@ -69,8 +69,8 @@ namespace Bubble_Trouble
 
         public bool isTouched(Point p, int rad) 
         {
-            double d = Math.Sqrt((X + 25 - p.X) * (X + 25 - p.X) + (Y + 25 - p.Y) * (Y + 25 - p.Y));
-            return d <= 25 + rad; 
+            //double d = Math.Sqrt((X + 25 - p.X) * (X + 25 - p.X) + (Y + 25 - p.Y) * (Y + 25 - p.Y));
+            return (Math.Sqrt((X + 25 - p.X) * (X + 25 - p.X) + (Y + 25 - p.Y) * (Y + 25 - p.Y))) <= 25 + rad; 
         }
     }
 }
