@@ -1,5 +1,5 @@
 # bubble_trouble
-Proekt po vizuelno programiranje 2015
+
 
 Целта на следнава апликација е да се имплементира едноставна Bubble trouble. Bubble trouble е игра во која треба да се испукаат сите топчиња преку нивно делење со помош на линијата што се испукува од оружјето, пред да истече времето и без да ве допре некое од топчињата.
 Линк до играта Bubble trouble : http://www.miniclip.com/games/bubble-trouble/en/ 
