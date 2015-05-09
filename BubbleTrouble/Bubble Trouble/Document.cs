@@ -46,7 +46,7 @@ namespace Bubble_Trouble
             Topcinja.Add(new SrednoTopce((float)point.X, (float)point.Y, (float)( 2*Math.PI/3) ));
         }
 
-
+    // iscrtuvanje na topcinjata i igracot
         public void Draw(Graphics g)
         {
             foreach (Topce t in Topcinja)
@@ -55,7 +55,8 @@ namespace Bubble_Trouble
             }
             igrac.Draw(g);
         }
-
+    
+    // Pomestuvanje na topcinjata
         public void Move(Rectangle bounds) 
         {
             foreach (Topce t in Topcinja)
@@ -88,7 +89,7 @@ namespace Bubble_Trouble
 
         }
 
-
+// proveruva pogodok na spitalata so topcinjata
         public bool proveriPogodok()
         {
             foreach (Point p in igrac.spirala.tocki)
